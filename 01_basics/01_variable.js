@@ -27,4 +27,3 @@ console.table([accountId, accountEmail, accountPassword, accountCity, accountSta
 
 
 
-

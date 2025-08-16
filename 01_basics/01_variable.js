@@ -22,7 +22,7 @@ Prefer not to use var
 because of issue in block scope and functional scope
 */
 
-//we can use console.table for multiple line print
+//we can use console.table for multiple line print not console.log
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
 
 

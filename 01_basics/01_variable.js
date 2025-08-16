@@ -22,7 +22,7 @@ Prefer not to use var
 because of issue in block scope and functional scope
 */
 
-//console log is not good practise for multiple printing best we can use this.
+//we can use console.table for multiple line print
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
 
 
